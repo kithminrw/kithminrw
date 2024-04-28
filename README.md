@@ -52,11 +52,11 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
    - The project was taken forward by a group of undergraduates in 2024 | [Repo]() | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
 ### Micromouse
-- Iniaited back when I was an undergrad (2019), to create a knowledge base for desinging cost-effective micromouse robots to compete in local and international competitions.
+- Iniaited back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
   - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come. 
   - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
-  - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
+- Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
 ### Courses
  - I have designed alot of courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
@@ -76,7 +76,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
   - Undergraduate thesis project
   - The goal is to develop a cost-effective solution for individual finger based wireless interaction using sEMG technology, for amputees and all other users. This device is aimed to be a revolutionary new wearable technology with many applications, mainly being for Bionic Hand Control.
-  - [ICASSP paper](https://ieeexplore.ieee.org/document/9054227) and [SMC paper](https://ieeexplore.ieee.org/document/9283285)
+  - Published: [ICASSP paper](https://ieeexplore.ieee.org/document/9054227) | [SMC paper](https://ieeexplore.ieee.org/document/9283285)
 - [Bionic Humanoid Arm and EMG recording device using R-Pi 3](https://github.com/kithminrw/EMG_RPi_BionicHand)
   - Created a low-cost device and circuit using AD623 for obtaining Bio-potentials using a R-Pi protoboard for recording EMG Signals. Bionic Hand was completely 3-D printed and developed using nylon strings and servo motors mounted on the arm. This project was awarded a Distinction pass after it was presented as a Self Initiated Innovation project, which was expanded into the FYP under the supervision Dr. Simon Lind Kappel.
 - [Automated Plant Leaf Disease Detection](https://github.com/kahnchana/Plant_Disease_Recognition)
