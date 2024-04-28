@@ -12,7 +12,6 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
 [<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />]()
-[<img align="left" alt="Pytorch" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />]()
 [<img align="left" alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />]()
 [<img align="left" alt="MatLab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />]()
 [<img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />]()
@@ -21,6 +20,8 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [<img align="left" alt="COMSOL" width="26px" src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" />]()
 [<img align="left" alt="Lumerical" width="30px" src="https://pbs.twimg.com/profile_images/1258494918634291200/tgR7gdWK_400x400.jpg" />]()
 [<img align="left" alt="KLayout" width="30px" src="https://avatars.githubusercontent.com/u/46386928?s=200&v=4" />]()
+[<img align="left" alt="OnShape" width="30px" src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" />]()
+[<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
 
 <br>
 
