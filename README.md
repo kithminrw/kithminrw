@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I like to work on interesting projects in the areas of Electronics, Silicon Photonics, Sensors and Biosensors, CMOS IC Design, and Machine Learning Tools for Hardware Design and Simulation. 
+I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Robotics, Silicon Photonics, Electronics, Sensors and Biosensors, CMOS IC Design, and Machine Learning Tools for Hardware Design and Simulation. 
 
 - 🔭 I’m currently working on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
 - 👯 I’m looking to collaborate on projects in the intersection of Machine Learning, Biomedical Engineering and Hardware Design Automation. I have colloborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship.
@@ -55,7 +55,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Iniaited back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
   - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come. 
-  - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
+- A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
 - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
 ### Courses
