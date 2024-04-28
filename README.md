@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm [Kithmin](https://www.kithminrw.com/)
+
+I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE)  of The University of British Columbia.
 
 <!--
 **kithminrw/kithminrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
