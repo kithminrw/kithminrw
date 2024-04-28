@@ -59,7 +59,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
 ### Courses
- - I have designed alot of courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
+ - I have designed courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
 
 #### EmbeddedML Short Course
 - I have been interested in developing and improving a course on embedded machine learning.
@@ -70,7 +70,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 ### Workshops
  - [Embedded workshop](https://slinspire.lk/embedded-systems-workshop-for-beginners/) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
  - [ROS workshop](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [Youtube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r) | Repo [1](https://github.com/sakunaharinda/ROS-Handson-Session-1.1) [2](https://github.com/sakunaharinda/ROS-Handson-Session-1.2) [3](https://github.com/sakunaharinda/ROS-Handson-Session-2)
- - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | Repo [1](https://github.com/SkillSurf/introduction_qc)
+ - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | Repo [1](https://github.com/SkillSurf/introduction_qc)
 
 ### Other Projects & Initiatives
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
