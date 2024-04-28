@@ -26,12 +26,15 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 <br>
 
 <!--
-### AIpoweredTools
-- An upcoming project
-
 ### Quantum Annealing
 - Ongoing project
+
+### UBC Projects
+- Ongoing project
 -->
+
+### AIpoweredTools
+- An upcoming project
 
 ### BraiNeoCare
 - Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
@@ -44,9 +47,9 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
  - Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
  - A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
  - The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
- - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing).
+ - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) 
  - The project is currently on-going;
-   - The project was taken forward by a group of undergraduates in 2024 | [Repo]() | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view)
+   - The project was taken forward by a group of undergraduates in 2024 | [Repo]() | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
 ### Micromouse
 - Iniaited back when I was an undergrad (2019), to create a knowledge base for desinging cost-effective micromouse robots to compete in local and international competitions.
