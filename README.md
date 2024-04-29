@@ -58,11 +58,11 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
 - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
-### Courses
+### SkillSurf Courses
  - I have designed courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
 
 #### EmbeddedML Short Course
-- I have been interested in developing and improving a course on embedded machine learning.
+- I have been interested in developing and improving a course on embedded machine learning. I am workign with a team on developing the following demos;
   - Embedded machine learning for speech recognition using Arduino Nano 33 BLE Sense | [Repo]()
   - Embedded machine learning for person detection using Arduino Nano 33 BLE Sense | [Repo]()
   - Embedded machine learning for gesture recognition using Arduino Nano 33 BLE Sense | [Repo](https://github.com/devnithw/gesture-tinyml)
