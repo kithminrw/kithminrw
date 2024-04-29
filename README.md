@@ -29,7 +29,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 ### Quantum Annealing
 - Ongoing project
 
-### UBC Projects
+### UBC MASc Projects
 - Ongoing project
 -->
 
@@ -47,12 +47,12 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
  - Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
  - A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
  - The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
- - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) 
+ - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Paper](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
  - The project is currently on-going;
    - The project was taken forward by a group of undergraduates in 2024 | [Repo](https://github.com/intelliscope-life) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
 ### Micromouse
-- Iniaited back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
+- Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
   - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come. 
 - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
@@ -71,6 +71,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
  - [Embedded workshop](https://slinspire.lk/embedded-systems-workshop-for-beginners/) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
  - [ROS workshop](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [Youtube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r) | Repo [1](https://github.com/sakunaharinda/ROS-Handson-Session-1.1) [2](https://github.com/sakunaharinda/ROS-Handson-Session-1.2) [3](https://github.com/sakunaharinda/ROS-Handson-Session-2)
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | Repo [1](https://github.com/SkillSurf/introduction_qc)
+ - [Generative AI workshop]()
 
 ### Other Projects & Initiatives
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
