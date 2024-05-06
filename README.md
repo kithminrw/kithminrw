@@ -1,8 +1,10 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Robotics, Silicon Photonics, Electronics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design and Simulation. 
+I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Robotics, Silicon Photonics, Electronics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design and Simulation.
 
 - 🔭 I’m currently working on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
+- 🌱 [myBlog](https://github.com/kithminrw/myBlog) is under construction.
+- 📫 How to reach me: kithminrw@ece.ubc.ca
 - 👯 I’m looking to collaborate on projects in the intersection of Machine Learning, Biomedical Engineering and Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Masters.
 - ⚡ Fun fact: I find myself being more drawn to software+AI than to hardware as I grow older. Not certain I can explain why since I have been doing hardware for 10+ years. :)
 
@@ -33,8 +35,10 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Ongoing project
 -->
 
-### AIpoweredTools
-- An upcoming project
+### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/)
+- Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
+  - A collection of notes to navigate the learning experience on this subject
+- An upcoming project on AIpoweredTools will be accompanied here.
 
 ### BraiNeoCare
 - Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
