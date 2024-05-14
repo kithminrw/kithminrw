@@ -41,22 +41,22 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - An upcoming project on AIpoweredTools will be accompanied here.
 
 ### BraiNeoCare
-- Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
+##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long term neonatal epilepsy screening.
 - The project is currently on-going;
   - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper]()
 
 ### IntelliScope
- - Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
- - A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
- - The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
- - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Paper](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
- - The project is currently on-going;
-   - The project was taken forward by a group of undergraduates in 2024 | [Repo](https://github.com/intelliscope-life) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
+##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
+- A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
+- The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
+- The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Paper](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
+- The project is currently on-going;
+  - The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-life) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
 ### Micromouse
-- Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
+##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
   - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come. 
 - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
