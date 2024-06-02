@@ -4,7 +4,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 
 - 🔭 I’m currently working on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
 - 🌱 [myBlog](https://github.com/kithminrw/myBlog) is under construction.
-- 📫 How to reach me: kithminrw@ece.ubc.ca
+- 📫 How to reach me: kithminr@ece.ubc.ca
 - 👯 I’m looking to collaborate on projects in the intersection of Machine Learning, Biomedical Engineering and Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Masters.
 - ⚡ Fun fact: I find myself being more drawn to software+AI than to hardware as I grow older. Not certain I can explain why since I have been doing hardware for 10+ years. :)
 
