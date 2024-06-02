@@ -73,7 +73,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
   - Embedded machine learning for gesture recognition using Arduino Nano 33 BLE Sense | [Repo](https://github.com/devnithw/gesture-tinyml)
 
 ### Workshops
- - [Embedded workshop]([https://slinspire.lk/embedded-systems-workshop-for-beginners/](https://slinspire.lk/events/embedded-workshop/)) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
+ - [Embedded workshop](https://slinspire.lk/events/embedded-workshop/)) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
  - [ROS workshop](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [Youtube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r) | Repo [1](https://github.com/sakunaharinda/ROS-Handson-Session-1.1) [2](https://github.com/sakunaharinda/ROS-Handson-Session-1.2) [3](https://github.com/sakunaharinda/ROS-Handson-Session-2)
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | Repo [1](https://github.com/SkillSurf/introduction_qc)
  - [Generative AI workshop](https://skillsurf.github.io/introduction_genAI/intro.html) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
