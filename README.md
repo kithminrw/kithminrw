@@ -26,19 +26,19 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
 
 <br />
+<br />
 
 <!--
-### Quantum Annealing
-- Ongoing project
-
 ### UBC MASc Projects
 - Ongoing project
 -->
+### [open-source-asic-chip-design](https://github.com/SkillSurf)
+- An upcoming project on ASIC Chip Design track through the [IEEE SSCS OSE](https://sscs-ose.github.io/).
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/)
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
   - A collection of notes to navigate the learning experience on this subject
-- An upcoming project on AIpoweredTools will be accompanied here.
+- An upcoming project on AIpoweredTools.
 
 ### BraiNeoCare
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
