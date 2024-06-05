@@ -40,6 +40,11 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
   - A collection of notes to navigate the learning experience on this subject
 - An upcoming project on AIpoweredTools.
 
+### Numerical simulation methods with Finite Difference Time Domain (FDTD) method
+- [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
+- [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
+- [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
+
 ### BraiNeoCare
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
