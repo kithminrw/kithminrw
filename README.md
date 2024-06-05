@@ -33,7 +33,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Ongoing project
 -->
 ### [open-source-asic-chip-design](https://github.com/SkillSurf)
-- An upcoming project on ASIC Chip Design track through the [IEEE SSCS OSE](https://sscs-ose.github.io/).
+- An upcoming project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/)
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
