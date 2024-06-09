@@ -3,9 +3,8 @@
 I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Robotics, Silicon Photonics, Electronics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design and Simulation.
 
 - 🔭 I’m currently working on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
-- 🌱 [myBlog](https://github.com/kithminrw/myBlog) is under construction.
-- 📫 How to reach me: kithminr@ece.ubc.ca
-- 👯 I’m looking to collaborate on projects in the intersection of Machine Learning, Biomedical Engineering and Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Masters.
+- 📫 How to reach me: kithminrw@gmail.com
+- 👯 I’m looking to collaborate on projects in the intersection of Machine Learning, Biomedical Engineering and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Masters.
 - ⚡ Fun fact: I find myself being more drawn to software+AI than to hardware as I grow older. But I want to continue doing open-source hardware and DIY projects :)
 
 #### Languages and Tools:
@@ -33,6 +32,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 ### UBC MASc Projects
 - Ongoing project
 -->
+
 ### [open-source-asic-chip-design](https://github.com/SkillSurf)
 - An upcoming project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
 
@@ -40,11 +40,10 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
   - A collection of notes to navigate the learning experience on this subject
 - An upcoming project on AIpoweredTools.
-
-### Numerical simulation methods with Finite Difference Time Domain (FDTD) method
-- [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
-- [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
-- [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
+- Numerical simulation methods with Finite Difference Time Domain (FDTD) method
+  - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
+  - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
+  - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
 ### BraiNeoCare
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
