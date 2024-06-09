@@ -24,11 +24,9 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [<img align="left" alt="KLayout" width="30px" src="https://avatars.githubusercontent.com/u/46386928?s=200&v=4" />]()
 [<img align="left" alt="OnShape" width="30px" src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" />]()
 [<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kithminrw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<br />
 
 <!--
 ### UBC MASc Projects
