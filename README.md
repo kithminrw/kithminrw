@@ -25,6 +25,9 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [<img align="left" alt="OnShape" width="30px" src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" />]()
 [<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
 
+<img align="left" alt="Kithmin's Github Stats" src="https://github-readme-stats.kithminrw.vercel.app/api?username=kithminrw&show_icons=true&&theme=github-dark&count_private=true&include_all_commits=true&&hide=prs,contribs&hide_border=true" />
+<
+
 <br />
 <br />
 
