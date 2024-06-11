@@ -31,16 +31,21 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 -->
 
 ### [open-source-asic-chip-design](https://github.com/SkillSurf) [Upcoming work]
-- An upcoming project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
+- An upcoming analog design project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
+  - Notes on Tiny Tapeout and using [SiliWiz](https://app.siliwiz.com/) from a Analog CMOS Design Perspective.  
+  - A jupyter-book collection of notes on systemverilog and OpenLane + digital design project.
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
-  - A collection of notes to navigate the learning experience on this subject
-- An upcoming project on AIpoweredTools.
-- Numerical simulation methods with Finite Difference Time Domain (FDTD) method
-  - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
-  - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
-  - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
+  - A collection of deep-dive notes to navigate the learning curve on the topics with advice from experienced people.
+  - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
+- Additionally,
+  - An upcoming project on AI-powered EPDA Tools for SDL (Idea from ControlNet).
+  - Numerical simulation methods with Finite Difference Time Domain (FDTD) method
+    - Opportunities to apply ML/AI in the design and simulation workflow (Should do an internship on this :) )
+    - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
+    - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
+    - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
 ### BraiNeoCare
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
