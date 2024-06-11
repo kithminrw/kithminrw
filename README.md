@@ -28,15 +28,12 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 
 <!--
 [![Kithmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kithminrw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### UBC MASc Projects
-- Ongoing project
 -->
 
-### [open-source-asic-chip-design](https://github.com/SkillSurf)
+### [open-source-asic-chip-design](https://github.com/SkillSurf) [Upcoming work]
 - An upcoming project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
 
-### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/)
+### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
   - A collection of notes to navigate the learning experience on this subject
 - An upcoming project on AIpoweredTools.
