@@ -74,7 +74,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
  - I contributed for the SystemVerilog Short Course on [ASIC flow with Synopsys DesignCompiler & IC Compiler](https://github.com/SkillSurf/systemverilog/tree/master/asic_flow).
 
 #### EmbeddedML Short Course
-- I have been interested in developing and improving a course on embedded machine learning. I am workign with a team on developing the following demos;
+- I have been interested in developing and improving a course on embedded machine learning. I am working with a team on developing the following demos;
   - Embedded machine learning for speech recognition using Arduino Nano 33 BLE Sense | [Repo]()
   - Embedded machine learning for person detection using Arduino Nano 33 BLE Sense | [Repo]()
   - Embedded machine learning for gesture recognition using Arduino Nano 33 BLE Sense | [Repo](https://github.com/devnithw/gesture-tinyml)
