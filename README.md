@@ -40,7 +40,8 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
   - A collection of deep-dive notes to navigate the learning curve on the topics with advice from experienced people.
   - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
 - Additionally,
-  - An upcoming project on AI-powered EPDA Tools for SDL (Idea from ControlNet).
+  - An upcoming project on AI-powered EPDA Tools for SDL (Ideas from ControlNet).
+  - Nice concept - RALF: [Reinforcement Learning Assisted Automated Analog Layout Design Flow](https://github.com/iic-jku/IIC-RALF)
   - Numerical simulation methods with Finite Difference Time Domain (FDTD) method
     - Opportunities to apply ML/AI in the design and simulation workflow (Should do an internship on this :) )
     - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
