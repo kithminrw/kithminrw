@@ -32,8 +32,10 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 
 ### [open-source-asic-chip-design](https://github.com/SkillSurf) [Upcoming work]
 - An upcoming analog design project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
-  - Notes on Tiny Tapeout and using [SiliWiz](https://app.siliwiz.com/) from a Analog CMOS Design Perspective.  
-  - A jupyter-book collection of notes on systemverilog and OpenLane + digital design project.
+  - [Universalization of IC Design from CASS (UNIC-CASS)](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
+  - Notes on Tiny Tapeout from a Analog CMOS Design Perspective.  
+  - A jupyter-book collection of notes on systemverilog and OpenLane + Analog design,
+    - Collection of training [notes](https://unic-cass.github.io/unic-cass-training.html)
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
