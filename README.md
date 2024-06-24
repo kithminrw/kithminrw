@@ -41,6 +41,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
   - A collection of deep-dive notes to navigate the learning curve on the topics with advice from experienced people.
   - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
+  - Cool library for Neurophysiological Data Analysis with [NeuroKit2](https://neuropsychology.github.io/NeuroKit/index.html)
 - Additionally,
   - An upcoming project on AI-powered EPDA Tools for SDL (Ideas from ControlNet).
   - Nice concept - RALF: [Reinforcement Learning Assisted Automated Analog Layout Design Flow](https://github.com/iic-jku/IIC-RALF)
