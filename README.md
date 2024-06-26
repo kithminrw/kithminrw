@@ -33,12 +33,12 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 ### [open-source-asic-chip-design](https://github.com/SkillSurf) [Upcoming work]
 - An upcoming analog design project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
   - [Universalization of IC Design from CASS (UNIC-CASS)](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
-  - Notes on Tiny Tapeout from a Analog CMOS Design Perspective.  
-  - A jupyter-book collection of notes on systemverilog and OpenLane + Analog design,
+  - Notes on Tiny Tapeout from an Analog CMOS Design Perspective.  
+  - A jupyter-book collection of notes on SystemVerilog and OpenLane + Analog design,
     - Collection of training [notes](https://unic-cass.github.io/unic-cass-training.html)
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
-- Github hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
+- GitHub hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
   - A collection of deep-dive notes to navigate the learning curve on the topics with advice from experienced people.
   - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
   - Cool library for Neurophysiological Data Analysis with [NeuroKit2](https://neuropsychology.github.io/NeuroKit/index.html)
@@ -75,7 +75,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 
 ### SkillSurf Courses
  - I have designed courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
- - I contributed for the SystemVerilog Short Course on [ASIC flow with Synopsys DesignCompiler & IC Compiler](https://github.com/SkillSurf/systemverilog/tree/master/asic_flow).
+ - I contributed to the SystemVerilog Short Course on [ASIC flow with Synopsys DesignCompiler & IC Compiler](https://github.com/SkillSurf/systemverilog/tree/master/asic_flow).
 
 #### EmbeddedML Short Course
 - I have been interested in developing and improving a course on embedded machine learning. I am working with a team on developing the following demos;
@@ -98,6 +98,6 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
   - Created a low-cost device and circuit using AD623 for obtaining Bio-potentials using a R-Pi protoboard for recording EMG Signals. Bionic Hand was completely 3-D printed and developed using nylon strings and servo motors mounted on the arm. This project was awarded a Distinction pass after it was presented as a Self Initiated Innovation project, which was expanded into the FYP under the supervision Dr. Simon Lind Kappel.
 - [Automated Plant Leaf Disease Detection](https://github.com/kahnchana/Plant_Disease_Recognition)
   - First project that ever amounted to anything.
-  - Used multi-spectral image feeds (NIR/RGB spectra) and implemented transfer learning based training of CNNs on small datasets of domain-specific images. The product was deployed using a mobile app with edge inference and recognized as a Top Initiative at National Tech Awards.
+  - Used multi-spectral image feeds (NIR/RGB spectra) and implemented transfer learning-based training of CNNs on small datasets of domain-specific images. The product was deployed using a mobile app with edge inference and recognized as a Top Initiative at the National Tech Awards.
 
 
