@@ -1,11 +1,11 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
+I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
-- 🔭 I’m currently working on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
+- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
 - 📫 How to reach me: kithminrw@gmail.com
 - 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
-- ⚡ Fun fact: I find myself being more drawn to software+AI than to hardware as I grow older. But I want to continue doing open-source hardware and DIY projects :)
+- ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
 
 #### Languages and Tools:
 
@@ -30,11 +30,13 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 [![Kithmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kithminrw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### [open-source-asic-chip-design](https://github.com/SkillSurf) [Upcoming work]
-- An upcoming analog design project on ASIC Chip Design through [IEEE SSCS OSE](https://sscs-ose.github.io/).
-  - [Universalization of IC Design from CASS (UNIC-CASS)](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
-  - Notes on Tiny Tapeout from an Analog CMOS Design Perspective.  
-  - A jupyter-book collection of notes on SystemVerilog and OpenLane + Analog design,
+### [open-source-asic-chip-design](https://github.com/SkillSurf) [Ongoing work]
+- Our proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
+  - Successfully taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
+  - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
+- An overview course on analog design using [IEEE SSCS OSE](https://sscs-ose.github.io/).
+  - Notes on Tiny Tapeout from an Analog CMOS Design Perspective.
+  - A jupyter-book collection of notes on SystemVerilog with OpenLane + Analog design,
     - Collection of training [notes](https://unic-cass.github.io/unic-cass-training.html)
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
@@ -56,7 +58,7 @@ I'm a Masters Student (MASc) in Electrical and Computer Engineering (ECE) at The
 - A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long term neonatal epilepsy screening.
 - The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper]()
+  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://arxiv.org/pdf/2406.16908)
 
 ### IntelliScope
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
