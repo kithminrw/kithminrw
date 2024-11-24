@@ -2,7 +2,7 @@
 
 I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
-- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems.
+- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597).
 - 📫 How to reach me: kithminrw@gmail.com
 - 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
 - ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
