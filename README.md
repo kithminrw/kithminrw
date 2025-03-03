@@ -53,18 +53,23 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
     - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
+### EarEEG-BASIC
+##### Initiated in 2025
+- CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
+  
 ### BraiNeoCare
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
-- The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long term neonatal epilepsy screening.
+- The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://arxiv.org/pdf/2406.16908)
+  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030)
+  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | 
 
 ### IntelliScope
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
 - The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
-- The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Paper](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
+- The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
 - The project is currently on-going;
   - The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
@@ -90,11 +95,12 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
  - [ROS workshop](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [Youtube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r) | Repo [1](https://github.com/sakunaharinda/ROS-Handson-Session-1.1) [2](https://github.com/sakunaharinda/ROS-Handson-Session-1.2) [3](https://github.com/sakunaharinda/ROS-Handson-Session-2)
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | [Repo](https://github.com/SkillSurf/introduction_qc)
  - [Generative AI workshop](https://skillsurf.github.io/introduction_genAI/intro.html) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh) | [Repo](https://github.com/SkillSurf/introduction_genAI)
+ - [The Art of Analog IC Design](https://skillsurf.github.io/introduction_genAI/intro.html)
 
 ### Other Projects & Initiatives
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
   - Undergraduate thesis project
-  - The goal is to develop a cost-effective solution for individual finger based wireless interaction using sEMG technology, for amputees and all other users. This device is aimed to be a revolutionary new wearable technology with many applications, mainly being for Bionic Hand Control.
+  - The goal is to develop a cost-effective solution for individual finger-based wireless interaction using sEMG technology, for amputees and all other users. This device is aimed to be a revolutionary new wearable technology with many applications, mainly being for Bionic Hand Control.
   - Published: [ICASSP paper](https://ieeexplore.ieee.org/document/9054227) | [SMC paper](https://ieeexplore.ieee.org/document/9283285)
 - [Bionic Humanoid Arm and EMG recording device using R-Pi 3](https://github.com/kithminrw/EMG_RPi_BionicHand)
   - Created a low-cost device and circuit using AD623 for obtaining Bio-potentials using a R-Pi protoboard for recording EMG Signals. Bionic Hand was completely 3-D printed and developed using nylon strings and servo motors mounted on the arm. This project was awarded a Distinction pass after it was presented as a Self Initiated Innovation project, which was expanded into the FYP under the supervision Dr. Simon Lind Kappel.
