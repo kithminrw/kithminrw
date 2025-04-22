@@ -2,7 +2,7 @@
 
 I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
-- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597).
+- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). 
 - 📫 How to reach me: kithminrw@gmail.com
 - 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
 - ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
@@ -31,17 +31,24 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 -->
 
 ### [open-source-asic-chip-design](https://github.com/SkillSurf) [Ongoing work]
-- Our proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
-  - Successfully taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
-  - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
-- An overview course on analog design using [IEEE SSCS OSE](https://sscs-ose.github.io/).
-  - Notes on Tiny Tapeout from an Analog CMOS Design Perspective.
-  - A jupyter-book collection of notes on SystemVerilog with OpenLane + Analog design,
+- An overview course on CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/). (In-progress)
+  - Planning to do a jupyter-book collection of notes on SystemVerilog and Digital Design with OpenROAD + CMOS Analog IC Design. 
     - Collection of training [notes](https://unic-cass.github.io/unic-cass-training.html)
+- CMOS Digital-to-Analog and Analog-to-Digital Converter Design with OSIC tools
+  - Our proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
+    - Successfully taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
+    - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
+- Advanced Digital System Design with OSIC tools
+  - Contributed to a tutorial on using OpenROAD for [OSIC flow](https://github.com/SkillSurf/systemverilog/tree/master/osic_flow)
+  - Digital Design Tapeout in IHP SG13G2
+- RF Microelectronics and IC Design with OSIC tools
+  - A course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
+  - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
+  - Tiny PLL Tapeout in IHP SG13G2
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
 - GitHub hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
-  - A collection of deep-dive notes to navigate the learning curve on the topics with advice from experienced people.
+  - A collection of deep-dive notes to navigate the learning curve on the topics, with advice from experienced people.
   - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
   - Cool library for Neurophysiological Data Analysis with [NeuroKit2](https://neuropsychology.github.io/NeuroKit/index.html)
 - Additionally,
@@ -53,7 +60,9 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
     - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
-### EarEEG-BASIC
+### QuantumML [Ongoing work]
+
+### EarEEG-BASIC [Ongoing work]
 ##### Initiated in 2025
 - CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
   
@@ -62,7 +71,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030)
+  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [TBME Journal Paper](https://arxiv.org/abs/2503.23338)
   - The project was further taken forward by a group of undergraduates in 2024 as an FYP | 
 
 ### IntelliScope
@@ -80,30 +89,20 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
 - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
-### SkillSurf Courses
- - I have designed courses, mainly related to Embedded System Design, Embedded Machine Learning and Embedded Product Design for IoT. I will post more information about them here.
- - I contributed to the SystemVerilog Short Course on [ASIC flow with Synopsys DesignCompiler & IC Compiler](https://github.com/SkillSurf/systemverilog/tree/master/asic_flow).
-
-#### EmbeddedML Short Course
-- I have been interested in developing and improving a course on embedded machine learning. I am working with a team on developing the following demos;
-  - Embedded machine learning for speech recognition using Arduino Nano 33 BLE Sense | [Repo]()
-  - Embedded machine learning for person detection using Arduino Nano 33 BLE Sense | [Repo]()
-  - Embedded machine learning for gesture recognition using Arduino Nano 33 BLE Sense | [Repo](https://github.com/devnithw/gesture-tinyml)
-
 ### Workshops
  - [Embedded workshop](https://slinspire.lk/events/embedded-workshop/) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
  - [ROS workshop](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [Youtube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r) | Repo [1](https://github.com/sakunaharinda/ROS-Handson-Session-1.1) [2](https://github.com/sakunaharinda/ROS-Handson-Session-1.2) [3](https://github.com/sakunaharinda/ROS-Handson-Session-2)
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | [Repo](https://github.com/SkillSurf/introduction_qc)
  - [Generative AI workshop](https://skillsurf.github.io/introduction_genAI/intro.html) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh) | [Repo](https://github.com/SkillSurf/introduction_genAI)
- - [The Art of Analog IC Design](https://skillsurf.github.io/introduction_genAI/intro.html)
+ - [The Art of Analog IC Design workshop](https://skillsurf.github.io/art_of_aicd/) | [Repo](https://github.com/SkillSurf/art_of_aicd)
 
 ### Other Projects & Initiatives
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
   - Undergraduate thesis project
-  - The goal is to develop a cost-effective solution for individual finger-based wireless interaction using sEMG technology, for amputees and all other users. This device is aimed to be a revolutionary new wearable technology with many applications, mainly being for Bionic Hand Control.
+  - The goal is to develop a cost-effective solution for individual finger-based wireless interaction using sEMG technology, for amputees and all other users. This device is aimed to be a revolutionary new wearable technology with many applications, mainly for Bionic Hand Control.
   - Published: [ICASSP paper](https://ieeexplore.ieee.org/document/9054227) | [SMC paper](https://ieeexplore.ieee.org/document/9283285)
 - [Bionic Humanoid Arm and EMG recording device using R-Pi 3](https://github.com/kithminrw/EMG_RPi_BionicHand)
-  - Created a low-cost device and circuit using AD623 for obtaining Bio-potentials using a R-Pi protoboard for recording EMG Signals. Bionic Hand was completely 3-D printed and developed using nylon strings and servo motors mounted on the arm. This project was awarded a Distinction pass after it was presented as a Self Initiated Innovation project, which was expanded into the FYP under the supervision Dr. Simon Lind Kappel.
+  - Created a low-cost device and circuit using AD623 for obtaining Bio-potentials using a R-Pi protoboard for recording EMG Signals. Bionic Hand was completely 3-D printed and developed using nylon strings and servo motors mounted on the arm. This project was awarded a Distinction pass after it was presented as a Self-Initiated Innovation project, which was expanded into the FYP under the supervision of Dr. Simon Lind Kappel.
 - [Automated Plant Leaf Disease Detection](https://github.com/kahnchana/Plant_Disease_Recognition)
   - First project that ever amounted to anything.
   - Used multi-spectral image feeds (NIR/RGB spectra) and implemented transfer learning-based training of CNNs on small datasets of domain-specific images. The product was deployed using a mobile app with edge inference and recognized as a Top Initiative at the National Tech Awards.
