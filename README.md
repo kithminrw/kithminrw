@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
+I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics, and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
 - 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). 
 - 📫 How to reach me: kithminrw@gmail.com
@@ -30,21 +30,36 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 [![Kithmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kithminrw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### [open-source-asic-chip-design](https://github.com/SkillSurf) [Ongoing work]
-- An overview course on CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/). (In-progress)
-  - Planning to do a jupyter-book collection of notes on SystemVerilog and Digital Design with OpenROAD + CMOS Analog IC Design. 
-    - Collection of training [notes](https://unic-cass.github.io/unic-cass-training.html)
-- CMOS Digital-to-Analog and Analog-to-Digital Converter Design with OSIC tools
-  - Our proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
-    - Successfully taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
-    - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
-- Advanced Digital System Design with OSIC tools
+### [art-of-analog-asic-design](https://github.com/SkillSurf) [Ongoing work]
+##### Initiated in 2024
+- 1 - CMOS Analog IC Design and Simulation with OSIC tools
+  - Developed a course on [CMOS Analog IC Design and Simulation](https://www.skillsurf.lk/cmos-ic-design)
+    - Overview on CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
+    - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
+  - Projects
+    - [A Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
+      - Amplifier taped out on TTKSKY25A from Tiny Tapeout and CC 2509 chipIgnite shuttle service from chipfoundry.io  
+- 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
+  - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
+    - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
+    - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
+    - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
+  - Projects
+    - [PLL taped out in IHP SG13G2 as part of EN4430](https://github.com/avishkaherath/TO_July2025)
+    - Open-source RF Design Workflow for developing a VCO in SKY130 technology
+    - Our UNIC-CASS 2025 proposed project was a ["A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications"]
+      - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
+      - Reference design from [mabrains](https://github.com/mabrains/PLL_design/blob/main/docs/system_model.md)
+- 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
+  - Developing a course on ADC and DACs
+    - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
+  - Projects
+    - Our UNIC-CASS 2024 proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
+      - ADC taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
+        - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
+- 4 - Advanced Digital System Design with OSIC tools
   - Contributed to a tutorial on using OpenROAD for [OSIC flow](https://github.com/SkillSurf/systemverilog/tree/master/osic_flow)
   - Digital Design Tapeout in IHP SG13G2
-- RF Microelectronics and IC Design with OSIC tools
-  - A course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
-  - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
-  - Tiny PLL Tapeout in IHP SG13G2
 
 ### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
 - GitHub hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
@@ -61,26 +76,32 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
 ### QuantumML [Ongoing work]
+##### Initiated in 2025
+- Image Classification using Hyrbid Quantum-Classical Efficient Machine Learning Algorithms
+  - The project was being investigated by a group of undergraduates in 2025 as an FYP
+  - Inaugural quantum computing research done by ENTC, UoM
 
 ### EarEEG-BASIC [Ongoing work]
 ##### Initiated in 2025
 - CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
+  - The project was being investigated by a group of undergraduates in 2025 as an FYP
+  - Inaugural biomedical ASIC design research done by ENTC, UoM
   
-### BraiNeoCare
+### BraiNeoCare [Ongoing work 2020-Present]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
-- A Low-cost EEG Amplifier for Long Term Neonatal Neurological Disorder Management - Towards AI Powered Infancy Epilepsy Screening.
+- A Low-cost Dry-contact electrode-based EEG Monitoring System for Long-Term Neonatal Neurological Disorder Management - Towards AI-Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
   - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [TBME Journal Paper](https://arxiv.org/abs/2503.23338)
-  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | 
+  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | [TBME Journal Paper]()
+  - The project is now being taken forward in 2025 as an FYP into the application stage to develop a BCI to help a young quadraplegic child control assistive devices for leisure, communication, and possibly locomotion |
 
-### IntelliScope
+### IntelliScope [Completed in 2025]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
-- A Low-cost AI Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
+- A Low-cost AI-Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
 - The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
 - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
-- The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
+- The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
 
 ### Micromouse
 ##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
@@ -95,6 +116,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | [Repo](https://github.com/SkillSurf/introduction_qc)
  - [Generative AI workshop](https://skillsurf.github.io/introduction_genAI/intro.html) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh) | [Repo](https://github.com/SkillSurf/introduction_genAI)
  - [The Art of Analog IC Design workshop](https://skillsurf.github.io/art_of_aicd/) | [Repo](https://github.com/SkillSurf/art_of_aicd)
+ - [The RF and mmWave IC Design workshop]() | 
 
 ### Other Projects & Initiatives
 - [Development of a Cost-effective sEMG Sensor System for Controlling Bionic Arms](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) 
