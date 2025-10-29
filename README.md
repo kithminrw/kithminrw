@@ -38,7 +38,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
   - Projects
     - [A Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
-      - Amplifier taped out on TTKSKY25A from Tiny Tapeout and CC 2509 chipIgnite shuttle service from chipfoundry.io  
+      - Amplifier taped out on TTKSKY25B from Tiny Tapeout and CI 2511 chipIgnite shuttle service from chipfoundry.io  
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
@@ -69,7 +69,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - Additionally,
   - An upcoming project on AI-powered EPDA Tools for SDL (Ideas from ControlNet).
   - Nice concept - RALF: [Reinforcement Learning Assisted Automated Analog Layout Design Flow](https://github.com/iic-jku/IIC-RALF)
-  - Numerical simulation methods with Finite Difference Time Domain (FDTD) method
+  - Numerical simulation methods with the Finite Difference Time Domain (FDTD) method
     - Opportunities to apply ML/AI in the design and simulation workflow (Should do an internship on this :) )
     - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
     - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
@@ -77,31 +77,32 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 
 ### QuantumML [Ongoing work]
 ##### Initiated in 2025
-- Image Classification using Hyrbid Quantum-Classical Efficient Machine Learning Algorithms
-  - The project was being investigated by a group of undergraduates in 2025 as an FYP
-  - Inaugural quantum computing research done by ENTC, UoM
+- Image Classification using Hybrid Quantum-Classical Efficient Machine Learning Algorithms
+  - The project was being investigated by a group of undergraduates in 2025 as an FYP.
+  - Inaugural quantum computing research done by ENTC, UoM.
 
 ### EarEEG-BASIC [Ongoing work]
 ##### Initiated in 2025
 - CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
-  - The project was being investigated by a group of undergraduates in 2025 as an FYP
-  - Inaugural biomedical ASIC design research done by ENTC, UoM
+  - The project was being investigated by a group of undergraduates in 2025 as an FYP.
+  - Inaugural biomedical ASIC design research done by ENTC, UoM.
+  - Tapeout submitted on 2025-09-15 to CC-2509 chipIgnite shuttle service through TTSKY25a.
   
-### BraiNeoCare [Ongoing work 2020-Present]
+### BraiNeoCare [Completed in 2025]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
-- A Low-cost Dry-contact electrode-based EEG Monitoring System for Long-Term Neonatal Neurological Disorder Management - Towards AI-Powered Infancy Epilepsy Screening.
+- A Low-Cost Dry-Contact Electrode-Based EEG Monitoring System for Long-Term Neonatal Neurological Disorder Management - Towards AI-Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [TBME Journal Paper](https://arxiv.org/abs/2503.23338)
-  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | [TBME Journal Paper]()
-  - The project is now being taken forward in 2025 as an FYP into the application stage to develop a BCI to help a young quadraplegic child control assistive devices for leisure, communication, and possibly locomotion |
+  - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [IEEE TBME Journal Paper](https://arxiv.org/abs/2503.23338)
+  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | [IEEE JBHI Journal Paper]()
+  - The project is now being taken forward in 2025 as an FYP into the application stage to develop a BCI to help a young quadraplegic child control assistive devices for leisure, communication, and possibly locomotion.
 
 ### IntelliScope [Completed in 2025]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
-- A Low-cost AI-Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
-- The device is aimed to affordably help increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
+- A Low-Cost AI-Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
+- The device is aimed at helping increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
 - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
-- The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS Paper](https://ieeexplore.ieee.org/document/9401093)
+- The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS '21 Paper](https://ieeexplore.ieee.org/document/9401093) | [IEEE ISCAS '26 Paper](https://arxiv.org/abs/2510.23819v1)
 
 ### Micromouse
 ##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
