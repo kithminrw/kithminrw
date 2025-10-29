@@ -94,7 +94,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
   - The project was taken forward by a group of undergraduates in 2023 as an FYP | [Repo](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [IEEE TBME Journal Paper](https://arxiv.org/abs/2503.23338)
-  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | [IEEE JBHI Journal Paper]()
+  - The project was further taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/Sithminii/BraiNeoCare) | [IEEE JBHI Journal Paper]()
   - The project is now being taken forward in 2025 as an FYP into the application stage to develop a BCI to help a young quadraplegic child control assistive devices for leisure, communication, and possibly locomotion.
 
 ### IntelliScope [Completed in 2025]
@@ -102,7 +102,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - A Low-Cost AI-Powered Stethoscope for Cardiovascular Disease Management in Resource-Constrained Environments.
 - The device is aimed at helping increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
 - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g) 
-- The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS '21 Paper](https://ieeexplore.ieee.org/document/9401093) | [IEEE ISCAS '26 Paper](https://arxiv.org/abs/2510.23819v1)
+- The project was taken forward by a group of undergraduates in 2024 as an FYP | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS '21](https://ieeexplore.ieee.org/document/9401093) | [IEEE ISCAS '26](https://arxiv.org/abs/2510.23819v1)
 
 ### Micromouse
 ##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
