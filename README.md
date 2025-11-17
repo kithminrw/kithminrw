@@ -37,8 +37,9 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Overview on CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
   - Projects
-    - [A Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
-      - Amplifier taped out on TTKSKY25B from Tiny Tapeout and CI 2511 chipIgnite shuttle service from chipfoundry.io  
+    - [Template project for a Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
+    - The top 3 winning designs were taped out using TTKSKY25B through the CI 2511 chipIgnite shuttle service from chipfoundry.io
+    - Tiny Tapeout TTKSKY25B 265: [ttsky25_se_opamps](https://tinytapeout.com/chips/ttsky25b/tt_um_se_opamps)
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
