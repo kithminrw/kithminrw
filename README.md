@@ -45,7 +45,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
     - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
-  - Projects
+  - First ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
     - [PLL taped out in IHP SG13G2 as part of EN4430](https://github.com/avishkaherath/TO_July2025)
     - Open-source RF Design Workflow for developing a VCO in SKY130 technology
     - Our UNIC-CASS 2025 proposed project was a ["A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications"]
