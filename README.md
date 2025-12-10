@@ -33,24 +33,26 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 ### [art-of-analog-asic-design](https://github.com/SkillSurf) [Ongoing work]
 ##### Initiated in 2024
 - 1 - CMOS Analog IC Design and Simulation with OSIC tools
-  - Developed a course on [CMOS Analog IC Design and Simulation](https://www.skillsurf.lk/cmos-ic-design)
-    - Overview on CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
+    - Overview on open-source CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
-  - Projects
+    - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
+  - Organized the first ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
     - [Template project for a Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
     - The top 3 winning designs were taped out using TTKSKY25B through the CI 2511 chipIgnite shuttle service from chipfoundry.io
     - Tiny Tapeout TTKSKY25B 265: [ttsky25_se_opamps](https://tinytapeout.com/chips/ttsky25b/tt_um_se_opamps)
+  - Projects
+    - Design of an Area Optimized Low-Power Low-Noise CMOS Instrumentation Amplifier in SKY130 using Hybrid Particle Swarm Optimization
+      - To be submitted to MIXDES 2026  
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
-    - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
     - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
-  - First ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
     - [PLL taped out in IHP SG13G2 as part of EN4430](https://github.com/avishkaherath/TO_July2025)
     - Open-source RF Design Workflow for developing a VCO in SKY130 technology
-    - Our UNIC-CASS 2025 proposed project was a ["A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications"]
+    - Our UNIC-CASS 2025/26 proposed project "A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications" was accepted.
       - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
       - Reference design from [mabrains](https://github.com/mabrains/PLL_design/blob/main/docs/system_model.md)
+      - To be submitted to MIXDES 2026  
 - 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
   - Developing a course on ADC and DACs
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
