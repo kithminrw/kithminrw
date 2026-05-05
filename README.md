@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics, and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
+I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Biomedical ASIC Design, Silicon Photonics, and PIC Design, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
 - 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). [Journal Paper Incoming]().
 - 📫 How to reach me: kithminrw@gmail.com
