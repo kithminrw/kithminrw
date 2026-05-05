@@ -42,7 +42,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Tiny Tapeout TTKSKY25B 265: [ttsky25_se_opamps](https://tinytapeout.com/chips/ttsky25b/tt_um_se_opamps)
   - Projects
     - Design of an Area Optimized Low-Power Low-Noise CMOS Instrumentation Amplifier in SKY130 using Hybrid Particle Swarm Optimization
-      - To be submitted to MIXDES 2026  
+      - To be submitted to IEEE JSSC in 2026
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
@@ -52,7 +52,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Our UNIC-CASS 2025/26 proposed project "A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications" was accepted.
       - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
       - Reference design from [mabrains](https://github.com/mabrains/PLL_design/blob/main/docs/system_model.md)
-      - To be submitted to MIXDES 2026  
+      - Accpeted to SMACD 2026  
 - 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
   - Developing a course on ADC and DACs
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
