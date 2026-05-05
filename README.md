@@ -2,7 +2,7 @@
 
 I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of ASIC Design, Silicon Photonics, and PIC Design, Electronics, Robotics, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
-- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). 
+- 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). [Journal Paper Incoming]().
 - 📫 How to reach me: kithminrw@gmail.com
 - 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
 - ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
@@ -25,10 +25,6 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 [<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
 <br />
 <br />
-
-<!--
-[![Kithmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kithminrw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ### [art-of-analog-asic-design](https://github.com/SkillSurf) [Ongoing work]
 ##### Initiated in 2024
@@ -95,8 +91,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
   - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come.
 - [Obo Mouse v4 Open-source Micromouse Project](https://github.com/RoboticGen/obo-mouse-v4)
-- A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
-- Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
+- A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true).
 
 ### Workshops
  - [Embedded workshop](https://slinspire.lk/events/embedded-workshop/) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
@@ -104,6 +99,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
  - [Quantum Computing workshop](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Youtube](https://www.youtube.com/playlist?list=PL9cCjI9HkwwChpdyl5bGOTHq3KdenSiGn) | [Repo](https://github.com/SkillSurf/introduction_qc)
  - [Generative AI workshop](https://skillsurf.github.io/introduction_genAI/intro.html) | [Youtube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh) | [Repo](https://github.com/SkillSurf/introduction_genAI)
  - [The Art of Analog IC Design workshop](https://skillsurf.github.io/art_of_aicd/) | [Repo](https://github.com/SkillSurf/art_of_aicd)
+ - [Biomedical IC Design workshop]() | 
  - [The RF and mmWave IC Design workshop]() | 
 
 ### Other Projects & Initiatives
