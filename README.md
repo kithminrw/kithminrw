@@ -62,20 +62,6 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
   - Contributed to a tutorial on using OpenROAD for [OSIC flow](https://github.com/SkillSurf/systemverilog/tree/master/osic_flow)
   - Digital Design Tapeout in IHP SG13G2
 
-### [{ml-nn-zero2hero}](https://www.kithminrw.com/ml-nn-zero2hero/) [Ongoing work]
-- GitHub hosted jupyter-book with source [repo](https://github.com/kithminrw/ml-nn-zero2hero)
-  - A collection of deep-dive notes to navigate the learning curve on the topics, with advice from experienced people.
-  - Ideas to work on Generative techniques for Biosignal Synthesis+Reconstruction.
-  - Cool library for Neurophysiological Data Analysis with [NeuroKit2](https://neuropsychology.github.io/NeuroKit/index.html)
-- Additionally,
-  - An upcoming project on AI-powered EPDA Tools for SDL (Ideas from ControlNet).
-  - Nice concept - RALF: [Reinforcement Learning Assisted Automated Analog Layout Design Flow](https://github.com/iic-jku/IIC-RALF)
-  - Numerical simulation methods with the Finite Difference Time Domain (FDTD) method
-    - Opportunities to apply ML/AI in the design and simulation workflow (Should do an internship on this :) )
-    - [Finite Difference Time Domain solver](https://optics.ansys.com/hc/en-us/articles/360034914633-Finite-Difference-Time-Domain-FDTD-solver-introduction)
-    - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
-    - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
-
 ### QuantumML [Completed in 2026]
 ##### Initiated in 2025
 - Image Classification using Hybrid Quantum-Classical Efficient Machine Learning Algorithms
@@ -107,7 +93,8 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 ### Micromouse
 ##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
 - [SINDiB Micromouse Project](https://github.com/sanjith1999/SINDiB-MicroMouse)
-  - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come. 
+  - The project was taken forward by a group of undergraduates in 2023, creating the above knowledge base. I hope this project serves as a resource for more micromouse projects to come.
+- [Obo Mouse v4 Open-source Micromouse Project](https://github.com/RoboticGen/obo-mouse-v4)
 - A talk on Micromouse Robots given by me in 2022 is available [here](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr/edit?usp=sharing&ouid=110067105344034357131&rtpof=true&sd=true). 
 - Contact me if you are interested in designing a micromouse; I am hoping to put up a proper repository on the micromouse project in the future after I design a new version of this project.
 
