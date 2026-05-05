@@ -52,7 +52,8 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Our UNIC-CASS 2025/26 proposed project "A 2.4GHz Type-II ∆Σ Fractional-N Phase Locked Loop (PLL) with a Type IV Cross-Coupled Differential LC Voltage-Controlled Oscillator (VCO) for Wifi/Bluetooth Applications" was accepted.
       - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
       - Reference design from [mabrains](https://github.com/mabrains/PLL_design/blob/main/docs/system_model.md)
-      - Accpeted to SMACD 2026  
+    - A 2.4 GHz LC-VCO  Fractional-N Phase Locked Loop Open-Source Design in 130nm BiCMOS
+      - Accepted to SMACD 2026  
 - 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
   - Developing a course on ADC and DACs
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
