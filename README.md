@@ -36,11 +36,10 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Overview on open-source CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
     - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
-  - Organized the first ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
+  - Organized the first-ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
     - [Template project for a Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
     - The top 3 winning designs were taped out using TTKSKY25B through the CI 2511 chipIgnite shuttle service from chipfoundry.io
     - Tiny Tapeout TTKSKY25B 265: [ttsky25_se_opamps](https://tinytapeout.com/chips/ttsky25b/tt_um_se_opamps)
-  - Projects
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
@@ -53,7 +52,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - A 2.4 GHz LC-VCO  Fractional-N Phase Locked Loop Open-Source Design in 130nm BiCMOS
       - Accepted to SMACD 2026  
 - 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
-  - Developing a course on ADC and DACs
+  - Developing a course on ADCs and DACs
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
   - Projects
     - Our UNIC-CASS 2024 proposed project was a ["100KSPS 8-bit Fully-differential Successive Approximation Register (SAR) ADC for Low-power Applications"](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)
@@ -77,20 +76,20 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - [FDTD 101 Youtube](https://www.youtube.com/watch?v=N1ohReRScls&list=PL7kxN4u_N9HGMhaR4SrTUro8VUmEjWNnI)
     - [FDTD 101 Flexcompute](https://www.flexcompute.com/fdtd101/)
 
-### QuantumML [Ongoing work]
+### QuantumML [Completed in 2026]
 ##### Initiated in 2025
 - Image Classification using Hybrid Quantum-Classical Efficient Machine Learning Algorithms
   - The project was being investigated by a group of undergraduates in 2025 as an FYP.
   - Inaugural quantum computing research done by ENTC, UoM.
 
-### EarEEG-BASIC [Ongoing work]
+### EarEEG-BASIC [Completed in 2026]
 ##### Initiated in 2025
 - CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
   - The project was being investigated by a group of undergraduates in 2025 as an FYP.
   - Inaugural biomedical ASIC design research done by ENTC, UoM.
   - Tapeout submitted on 2025-09-15 to CC-2509 chipIgnite shuttle service through TTSKY25a.
   
-### BraiNeoCare [Completed in 2025]
+### BraiNeoCare [Completed in 2026]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-Cost Dry-Contact Electrode-Based EEG Monitoring System for Long-Term Neonatal Neurological Disorder Management - Towards AI-Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
