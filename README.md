@@ -3,6 +3,8 @@
 I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an Undergrad. I like to work on interesting projects in the areas of Biomedical ASIC Design, Silicon Photonics, and PIC Design, Integrated Sensing, Wearable Devices, and Machine Learning Tools for Hardware Design Automation (EDA/EPDA) and Simulation.
 
 - 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). [Journal Paper Incoming]().
+- 🧪 I founded and advise [theBRICD](https://www.thebricd.org/) (Biomedical Research in IC Design), an open community designing biomedical ICs in open-source PDKs, from schematic to tape-out.
+- 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=R3hrTXIAAAAJ&hl=en) | [Website](https://www.kithminrw.com/#publications)
 - 📫 How to reach me: kithminrw@gmail.com
 - 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
 - ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
@@ -26,6 +28,29 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 <br />
 <br />
 
+### 📄 Latest Publications
+- **A Dry-Contact Ear-EEG System With Continuous Electrode-Skin Impedance Mismatch Monitoring for Motion Artifact Cancellation Using DRL Stimulus** - IEEE BioCAS 2026 (accepted) | [arXiv](https://arxiv.org/abs/2609.02777)
+- **An Open-Source CMOS ASIC for I/Q Based Electrode-Skin Impedance Mismatch Extraction** - IEEE ICM 2026 (accepted) | [Repo](https://github.com/LohanAtapattu/Unic_Cass_IHP)
+- **A Patient-Independent Neonatal Seizure Prediction Model Using Reduced Montage EEG and ECG** - IEEE BHI 2026 (accepted) | [arXiv](https://arxiv.org/abs/2511.14110)
+- **Architectural Robustness to Label Noise Using Variational Quantum Circuits for Medical Image Classification** - AAAI 2026 Fall Symposium (QIML) | [Paper](https://doi.org/10.1609/aaaiss.v10i1.43484) | [arXiv](https://arxiv.org/abs/2610.16153)
+- **A Simultaneous ECG-PCG Acquisition System with Real-Time Burst-Adaptive Noise Cancellation** - IEEE EMBC 2026 | [arXiv](https://arxiv.org/abs/2510.23819)
+- **A 2.4 GHz LC-VCO Fractional-N Phase Locked Loop Open-Source Design in 130-nm BiCMOS** - SMACD 2026 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11647761) | [arXiv](https://arxiv.org/abs/2607.08852)
+- **An Active Dry-Contact Continuous EEG Monitoring System for Seizure Detection Applications in Clinical Neurophysiology** - IEEE TBME 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11230808) | [arXiv](https://arxiv.org/abs/2503.23338)
+- **Towards decentralized diagnostics for women's health using silicon photonic integrated circuits** - IEEE SENSORS 2025 | [IEEE Xplore](https://doi.org/10.1109/SENSORS59705.2025.11331227)
+- **Towards on-chip integration of a silicon photonic microfluidic thermal flow rate sensor on a silicon-on-insulator process** - SPIE Photonics West 2025 | [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short)
+- Preprints: **Multiplexed hormone immunoassays for women's health on a regenerable silicon photonic chip** | [bioRxiv](https://doi.org/10.64898/2026.09.26.754695) · **Area Optimization of Open-Source Low-Power INA in 130nm CMOS using Hybrid Mixed-Variable PSO** | [arXiv](https://arxiv.org/abs/2604.04213)
+- Full list on [Google Scholar](https://scholar.google.com/citations?user=R3hrTXIAAAAJ&hl=en)
+
+### [theBRICD](https://www.thebricd.org/) - Biomedical Research in IC Design [Ongoing]
+##### Founder & Advisor
+- [Open-BioAFE](https://www.thebricd.org/#p-open-bioafe): A Low-Power, Impedance-Aware Biopotential Front-End IC (Open Project) [To be commenced]
+  - Open-source 8-channel ECG/EEG/EMG analog front-end in IHP SG13G2 with continuous electrode impedance tracking, targeting IEEE BioCAS | [Design tutorial](https://www.thebricd.org/biomedical-ic-design/)
+- [NeurEar](https://www.thebricd.org/#p-neurear): An Open, Impedance-Aware In-Ear Biosensing Platform [To be commenced]
+  - Taking impedance-aware ear-EEG from a headband prototype into an earbud
+- [Open-SERDES](https://www.thebricd.org/#p-open-serdes): Towards an Open-Source High-Speed Serial Link in IHP SG13G2 (Open Project)
+- [LLM-based Analog Design Automation](https://www.thebricd.org/#p-llm-analog): A Forward and Inverse Design Approach for Automated Analog Design Optimization and Layout using LLM Agent-based Analytical Modelling [Ongoing]
+  - Grew out of a hybrid mixed-variable PSO that cut gate area by 90.33% on a low-power INA in 130nm CMOS | [arXiv](https://arxiv.org/abs/2604.04213)
+
 ### [art-of-analog-asic-design](https://github.com/SkillSurf) [Ongoing work]
 ##### Initiated in 2024
 - 1 - CMOS Analog IC Design and Simulation with OSIC tools
@@ -46,7 +71,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
       - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
       - Reference design from [mabrains](https://github.com/mabrains/PLL_design/blob/main/docs/system_model.md)
     - A 2.4 GHz LC-VCO  Fractional-N Phase Locked Loop Open-Source Design in 130nm BiCMOS
-      - Accepted to SMACD 2026  
+      - Published at SMACD 2026 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11647761) | [arXiv](https://arxiv.org/abs/2607.08852) | [Repo](https://github.com/Manimohan05/SG13G2_2.4GHz_LC_VCO_FPLL)
 - 3 - CMOS Digital-to-Analog and Analog-to-Digital Converter Designs with OSIC tools
   - Developing a course on ADCs and DACs
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
@@ -63,20 +88,22 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - Image Classification using Hybrid Quantum-Classical Efficient Machine Learning Algorithms
   - The project was being investigated by a group of undergraduates in 2025 as an FYP.
   - Inaugural quantum computing research done by ENTC, UoM.
+  - Published at the AAAI 2026 Fall Symposium on Quantum Information & Machine Learning (QIML) | [Paper](https://doi.org/10.1609/aaaiss.v10i1.43484) | [arXiv](https://arxiv.org/abs/2610.16153)
 
 ### EarEEG-BASIC [Completed in 2026]
 ##### Initiated in 2025
 - CMOS Biomedical ASIC for Simultaneous Electrode-Skin Impedance Measurement and Motion Artifact Removal in Ear-EEG platforms.
   - The project was being investigated by a group of undergraduates in 2025 as an FYP.
   - Inaugural biomedical ASIC design research done by ENTC, UoM.
-  - Tapeout submitted on 2025-09-15 to CC-2509 chipIgnite shuttle service through TTSKY25a.
+  - Tapeout submitted on 2025-09-15 to CC-2509 chipIgnite shuttle service through TTSKY25a. Silicon received in July 2026 | [Tiny Tapeout](https://tinytapeout.com/chips/ttsky25a/tt_um_diff) | [Repo](https://github.com/LohanAtapattu/ttsky25_EpitaXC)
+  - Published: [IEEE BioCAS 2026 Paper](https://arxiv.org/abs/2609.02777) | [IEEE ICM 2026 Paper](https://github.com/LohanAtapattu/Unic_Cass_IHP) | [BRICD project](https://www.thebricd.org/#p-ear-eeg)
   
 ### BraiNeoCare [Completed in 2026]
 ##### Initiated back in 2020 in the Biomedical Research and Innovation Collective (theBRIC), which was an innovation platform for talented undergraduates. 
 - A Low-Cost Dry-Contact Electrode-Based EEG Monitoring System for Long-Term Neonatal Neurological Disorder Management - Towards AI-Powered Infancy Epilepsy Screening.
 - The goal is to develop an affordable system that is capable of acquiring and monitoring real-time EEG signal data of neonates, and is aimed towards increasing the efficiency of long-term neonatal epilepsy screening.
 - The project is currently on-going;
-  - The project was taken forward by a group of undergraduates in 2023 and 2024 as an FYP | [Repo-23](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [IEEE TBME Journal Paper](https://ieeexplore.ieee.org/document/11230808) | [arXiv Paper](https://arxiv.org/abs/2503.23338) | [Repo-24](https://github.com/Sithminii/BraiNeoCare) | [arXiv Paper](https://arxiv.org/abs/2511.14110)
+  - The project was taken forward by a group of undergraduates in 2023 and 2024 as an FYP | [Repo-23](https://github.com/Dinuka-1999/BraiNeoCare) | [IEEE SMC Paper](https://ieeexplore.ieee.org/abstract/document/10831030) | [IEEE TBME Journal Paper](https://ieeexplore.ieee.org/document/11230808) | [arXiv Paper](https://arxiv.org/abs/2503.23338) | [Repo-24](https://github.com/Sithminii/BraiNeoCare) | [IEEE BHI '26 Paper](https://arxiv.org/abs/2511.14110)
   - The project is now being taken forward in 2025 as an FYP into the application stage to develop a BCI to help a young quadraplegic child control assistive devices for leisure, communication, and possibly locomotion.
 
 ### IntelliScope [Completed in 2025]
@@ -85,6 +112,7 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - The device is aimed at helping increase the screening of congenital heart diseases in the community. It can also be wirelessly utilized in COVID-19 related situations.
 - The project won the First Runner-up Award at the 2020 CASS COVID-19 Special Student Design Competition and was presented on the opening day of ISCAS 2020 for the Student Design Competition Session - [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Paper](https://drive.google.com/file/d/19LmnasU0Bx8yN8EaQ_rB5XG1ntNo3QxQ/view) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g) | [Repo](https://github.com/intelliscope-ai) | [IEEE ISCAS '21](https://ieeexplore.ieee.org/document/9401093)
 - The project was taken forward by a group of undergraduates in 2024 as an FYP | [IEEE EMBC '26](https://arxiv.org/abs/2510.23819v1) | [arXiv Paper](https://arxiv.org/abs/2510.23819v1)
+  - Won the 2025 SLAAS Manamperi Main Award for the best inter-university final-year engineering project in Sri Lanka | [ENTC news](https://ent.uom.lk/2026/01/30/entc-wins-manamperi-main-award-2025-for-the-best-inter-university-final-year-undergraduate-project-in-engineering/)
 
 ### Micromouse
 ##### Initiated back when I was an undergrad (2019), to create a knowledge base for designing cost-effective micromouse robots to compete in local and international competitions.
