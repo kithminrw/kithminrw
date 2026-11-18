@@ -5,28 +5,8 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
 - 🔭 For my MASC, I worked on designing sensors on Silicon Photonics Chips and Microfluidic Control Systems [[Read my thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short). [Journal Paper Incoming]().
 - 🧪 I founded and advise [theBRICD](https://www.thebricd.org/) (Biomedical Research in IC Design), an open community designing biomedical ICs in open-source PDKs, from schematic to tape-out.
 - 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=R3hrTXIAAAAJ&hl=en) | [Website](https://www.kithminrw.com/#publications)
-- 📫 How to reach me: kithminrw@gmail.com
-- 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation. I have collaborated on [gdsfactory](https://gdsfactory.github.io/gdsfactory/) during an internship and collaborated on projects for [SiEPIC](https://github.com/SiEPIC) during my Master's.
+- 👯 I’m looking to collaborate on projects at the intersection of Machine Learning, Biomedical Engineering, and PIC/ASIC Hardware Design Automation.
 - ⚡ Fun fact: I love working on open-source hardware and DIY projects :)
-
-#### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
-[<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />]()
-[<img align="left" alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />]()
-[<img align="left" alt="MatLab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />]()
-[<img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />]()
-[<img align="left" alt="KiCAD" width="26px" src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" />]()
-[<img align="left" alt="Altium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" />]()
-[<img align="left" alt="COMSOL" width="26px" src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" />]()
-[<img align="left" alt="Lumerical" width="30px" src="https://pbs.twimg.com/profile_images/1258494918634291200/tgR7gdWK_400x400.jpg" />]()
-[<img align="left" alt="KLayout" width="30px" src="https://avatars.githubusercontent.com/u/46386928?s=200&v=4" />]()
-[<img align="left" alt="OnShape" width="30px" src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" />]()
-[<img align="left" alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
-<br />
-<br />
 
 ### 📄 Latest Publications
 - **A Dry-Contact Ear-EEG System With Continuous Electrode-Skin Impedance Mismatch Monitoring for Motion Artifact Cancellation Using DRL Stimulus** - IEEE BioCAS 2026 (accepted) | [arXiv](https://arxiv.org/abs/2609.02777)
@@ -57,11 +37,17 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
     - Overview on open-source CMOS Analog IC Design using [IEEE SSCS OSE](https://sscs-ose.github.io/)
     - [Analog Academy by IHP](https://github.com/IHP-GmbH/IHP-AnalogAcademy/tree/main)
     - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
+  - 📚 Learning resources
+    - [The Art of Analog IC Design](https://www.skillsurf.org/art_of_aicd/) (Skill Surf): an open-source course in analog CMOS IC design, from the transistor to tape-out, in IHP SG13G2 and SkyWater SKY130
+    - [Open-BioAFE Tutorial](https://www.thebricd.org/biomedical-ic-design/) (BRICD): designing a biopotential acquisition chip from scratch, covering low-noise amplifiers, chopping, SAR and delta-sigma ADCs, and bioimpedance sensing
   - Organized the first-ever Analog IC Student Design Contest by IEEE CASS-CEDA Joint SL Chapter
     - [Template project for a Low-power Single-ended Operational Amplifier using Sky130 PDK](https://github.com/SkillSurf/ttsky25_se_opamp)
     - The top 3 winning designs were taped out using TTKSKY25B through the CI 2511 chipIgnite shuttle service from chipfoundry.io
     - Tiny Tapeout TTKSKY25B 265: [ttsky25_se_opamps](https://tinytapeout.com/chips/ttsky25b/tt_um_se_opamps)
 - 2 - RF and mmWave Microelectronics and IC Design with OSIC tools
+  - 📚 Learning resources
+    - [RFIC Design with Open-Source Tools](https://www.skillsurf.org/rfic-design/) (Skill Surf): an open-source course in RF IC design, from the transistor to the transceiver, covering LNAs, mixers, LC oscillators, PLLs and frequency synthesis
+    - [Open-SERDES Tutorial](https://www.thebricd.org/serdes-tutorial/) (BRICD): high-speed serial links from the channel to clock and data recovery, covering equalization, jitter, PLLs and CDRs
   - Developing a course on [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design)
     - Collection of notes for [OpenEMS using IHP](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)
     - [Other courses](https://analog-course.readthedocs.io/en/latest/introduction/about.html)
@@ -80,6 +66,9 @@ I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The U
       - ADC taped out the chip on CI 2411 chipIgnite shuttle service from Efabless - [Repo](https://github.com/SkillSurf/8b-sar-adc-unic_cass)
         - Done as part of the [Universalization of IC Design from CASS (UNIC-CASS) program](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
 - 4 - Advanced Digital System Design with OSIC tools
+  - 📚 Learning resources
+    - [Digital Design](https://abapages.com/digital-design/index.html) (UC San Diego): course site with lecture recordings, FPGA labs and design examples, building up to a CPU in SystemVerilog
+    - [Physical Design with Open-Source Tools](https://www.skillsurf.org/physical-design/) (Skill Surf): back-end ASIC implementation from a synthesized netlist to GDSII with Yosys and OpenROAD
   - Contributed to a tutorial on using OpenROAD for [OSIC flow](https://github.com/SkillSurf/systemverilog/tree/master/osic_flow)
   - Digital Design Tapeout in IHP SG13G2
 
